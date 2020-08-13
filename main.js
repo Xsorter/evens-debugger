@@ -14,6 +14,7 @@
       timeStamp: ${e.timeStamp.toFixed(2)} ms<br>
       keyCode: ${e.keyCode}<br>
       <span class="green">key: ${e.key}</span><br>
+      <strong>current value: ${input.value}</strong><br>
       -------------------------------------------<br>
     `;
 
